@@ -35,7 +35,7 @@ This project was completed as part of the Data Analytics Internship program. The
 # ✅ Dashboard Visuals
 
 ## 📊 Dashboard Overview
-<img width="100%" alt="Dashboard Overview" src="Screenshots/dashboard.png">
+![Dashboard](output/dashboard.png)
 
 ---
 
