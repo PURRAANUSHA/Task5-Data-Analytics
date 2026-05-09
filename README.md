@@ -32,33 +32,6 @@ This project was completed as part of the Data Analytics Internship program. The
 
 ---
 
-# ✅ Dashboard Visuals
-
-## 📊 Dashboard Overview
-![Dashboard](output/dashboard.png)
-
----
-
-## 📈 Price Trend Analysis
-<img width="100%" alt="Price Trend Analysis" src="Screenshots/price_trends.png">
-
----
-
-## 🚗 Transmission Analysis
-<img width="100%" alt="Transmission Analysis" src="Screenshots/transmission_analysis.png">
-
----
-
-## 🏷 Brand Analysis
-<img width="100%" alt="Brand Analysis" src="Screenshots/brand_analysis.png">
-
----
-
-## 📌 Key Insights
-<img width="100%" alt="Insights" src="Screenshots/insights.png">
-
----
-
 # ✅ Key Insights
 ✔ Identified important trends and performance patterns  
 ✔ Generated insights using visual analytics  
